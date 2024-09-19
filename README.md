@@ -1,6 +1,5 @@
 # Hospitality_analytics_PowerBi
 
-# Hospitality Domain-Dashboard
 
 
 ## Problem Statement
@@ -24,7 +23,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 # Snapshot of Dashboard (Power BI Service)
 
-
+![power](https://github.com/Jay5127/Hospitality_analytics_PowerBi/blob/main/Screenshot%202024-09-19%20220515.png)
  
 
 
